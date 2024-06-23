@@ -1,2 +1,2 @@
-# react-learning
-My react course codebase and sandbox for course projects
+# REACT LEARNING
+React course codebase and sandbox for course projects by Jonas Schmedtmann 
